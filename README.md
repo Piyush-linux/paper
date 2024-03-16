@@ -1,4 +1,4 @@
-# Paper :)
+# Paper <img src="/docs/logo.svg" heigth="3em" width="35">
 
 An innovative Web App for managing your library with
 - managing Books CRUD 
